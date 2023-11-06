@@ -1,0 +1,33 @@
+.home-button {
+    float: right;
+    border-radius: 15px;
+    border: 2px solid #d39e9e;
+    background-color: #e02790;
+    padding: 10px;
+    margin: 10px;
+    transition: all .3s;
+    box-shadow: 8px 8px 3px 1px #d39e9e;
+
+}
+
+.home-button:hover {
+    box-shadow: -7px 7px 3px -1px #d39e9e;
+}
+
+.hover-button {
+    border-radius: 20px;
+    background-color: #000000;
+    color: #fff;
+
+    transition: background-color 0.3s;
+    /* Add a smooth transition */
+}
+
+.hover-button:hover {
+    font-weight: bolder;
+    color: black;
+    transition: all.6s;
+    background-color: #74fff6   ;
+    /* Background color on hover */
+
+}

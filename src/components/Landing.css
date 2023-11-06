@@ -1,0 +1,15 @@
+.button-back-to-home{
+    float: right;
+    border-radius: 15px;
+    border: 2px solid #ef0303;
+    background-color: #efc4dc;
+    padding: 10px;
+    margin: 50px;
+    transition: all .3s;
+    box-shadow: 12px 12px 2px 1px #0e0c0c;
+ 
+ }
+ .button-back-to-home:hover{
+
+        box-shadow: -12px -12px 2px -1px #0e0c0c;
+ }
